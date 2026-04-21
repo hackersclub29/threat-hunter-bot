@@ -1,0 +1,8 @@
+# requirements.txt
+scapy>=2.5.0
+aiohttp>=3.9.0
+dnspython>=2.6.0
+python-dotenv>=1.0.0
+ollama>=0.4.0
+# sqlite3 is part of the Python standard library — no extra install needed
+# discord.py removed — alerts now use Discord Webhook API directly via aiohttp
