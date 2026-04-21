@@ -622,7 +622,7 @@ For major changes, please open an issue first to discuss the approach. Keep PRs 
 
 ## License
 
-Copyright 2025 Threat Hunter Bot Contributors
+Copyright 2026 Threat Hunter Bot Contributors
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
