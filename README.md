@@ -79,7 +79,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/youruser/threat-hunter-bot.git
+git clone https://github.com/hackersclub29/threat-hunter-bot.git
 cd threat-hunter-bot
 
 # 2. Create and activate virtual environment
@@ -207,7 +207,7 @@ python3.11 --version
 ### Step 3 — Clone the repository
 
 ```bash
-git clone https://github.com/youruser/threat-hunter-bot.git
+git clone https://github.com/hackersclub29/threat-hunter-bot.git
 cd threat-hunter-bot
 ```
 
@@ -303,7 +303,7 @@ Right-click Start → **Windows Terminal (Admin)** or **PowerShell (Admin)**
 ### Step 4 — Clone the repository
 
 ```powershell
-git clone https://github.com/youruser/threat-hunter-bot.git
+git clone https://github.com/hackersclub29/threat-hunter-bot.git
 cd threat-hunter-bot
 ```
 
